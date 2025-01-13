@@ -18,7 +18,7 @@ function Dashboard() {
     setFetcStatus(false)
   }, [fetcStatus, setFetcStatus]);
 
-  console.log(data);
+  // console.log(data);
   
   
   return (
